@@ -2,123 +2,123 @@
   "profile": [
     {
       "id": 1,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/X3qh1Gr/pic1.jpg",
+      "banner": "https://i.ibb.co/5TJ0FN5/banner1.png",
       "firstName": "Omar",
       "lastName": "Faruq",
       "email": "omar@gmail.com",
       "address": "Street, Suite, City",
-      "companyName": "iBOS"
+      "companyName": "TechNext"
     },
     {
       "id": 2,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/R6t4Gfy/pic2.jpg",
+      "banner": "https://i.ibb.co/BNfLmfZ/banner2.png",
       "firstName": "Alice",
       "lastName": "Johnson",
       "email": "alice@gmail.com",
       "address": "123 Main St, Apt 101, New York",
-      "companyName": "Akij"
+      "companyName": "TechNext"
     },
     {
       "id": 3,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/WVm9JPC/pic3.jpg",
+      "banner": "https://i.ibb.co/YXstsQN/banner3.png",
       "firstName": "John",
       "lastName": "Doe",
       "email": "john.doe@example.com",
       "address": "456 Elm St, Suite 200, Boston",
-      "companyName": "bjit"
+      "companyName": "TechNext"
     },
     {
       "id": 4,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/JxzWdwq/pic4.jpg",
+      "banner": "https://i.ibb.co/GpQDgHj/banner4.png",
       "firstName": "Emily",
       "lastName": "Smith",
       "email": "emily.smith@example.com",
       "address": "789 Oak St, Apt 303, San Francisco",
-      "companyName": "brain station 23"
+      "companyName": "TechNext"
     },
     {
       "id": 5,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/v3s7qzZ/pic5.jpg",
+      "banner": "https://i.ibb.co/HK10ZXr/banner5.png",
       "firstName": "Michael",
       "lastName": "Brown",
       "email": "michael.brown@example.com",
       "address": "101 Pine St, Suite 100, Chicago",
-      "companyName": "welDev"
+      "companyName": "TechNext"
     },
     {
       "id": 6,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/n8ntS3w/pic6.jpg",
+      "banner": "https://i.ibb.co/Qd30ySH/banner6.png",
       "firstName": "Sophia",
       "lastName": "Lee",
       "email": "sophia.lee@example.com",
       "address": "222 Cedar St, Apt 505, Los Angeles",
-      "companyName": "weDev"
+      "companyName": "TechNext"
     },
     {
       "id": 7,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/jkxVCby/pic7.jpg",
+      "banner": "https://i.ibb.co/r3j2WTN/banner7.png",
       "firstName": "David",
       "lastName": "Clark",
       "email": "david.clark@example.com",
       "address": "333 Maple St, Suite 400, Houston",
-      "companyName": "tech-titans"
+      "companyName": "TechNext"
     },
     {
       "id": 8,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/FK5h9t9/pic8.jpg",
+      "banner": "https://i.ibb.co/89qWx4g/banner9.png",
       "firstName": "Emma",
       "lastName": "Wilson",
       "email": "emma.wilson@example.com",
       "address": "444 Walnut St, Apt 606, Miami",
-      "companyName": " "
+      "companyName": "TechNext"
     },
     {
       "id": 9,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/Z2V800b/pic9.jpg",
+      "banner": "https://i.ibb.co/5TJ0FN5/banner1.png",
       "firstName": "James",
       "lastName": "Garcia",
       "email": "james.garcia@example.com",
       "address": "555 Birch St, Suite 707, Seattle",
-      "companyName": " "
+      "companyName": "TechNext"
     },
     {
       "id": 10,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/9HsKpxG/pic10.jpg",
+      "banner": "https://i.ibb.co/kKjsF0M/banner10.png",
       "firstName": "Olivia",
       "lastName": "Martinez",
       "email": "olivia.martinez@example.com",
       "address": "666 Willow St, Apt 808, Atlanta",
-      "companyName": " "
+      "companyName": "TechNext"
     },
     {
       "id": 11,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/NFXSJfZ/pic11.jpg",
+      "banner": "https://i.ibb.co/jk5dX4B/banner11.png",
       "firstName": "Olivia",
       "lastName": "Martinez",
       "email": "olivia.martinez@example.com",
       "address": "666 Willow St, Apt 808, Atlanta",
-      "companyName": " "
+      "companyName": "TechNext"
     },
     {
       "id": 12,
-      "Avatar": "",
-      "banner": "",
+      "Avatar": "https://i.ibb.co/kSrQkpd/pic12.jpg",
+      "banner": "https://i.ibb.co/60WGLzK/banner12.png",
       "firstName": "Olivia",
       "lastName": "Martinez",
       "email": "olivia.martinez@example.com",
       "address": "666 Willow St, Apt 808, Atlanta",
-      "companyName": " "
+      "companyName": "TechNext"
     }
   ]
 }
