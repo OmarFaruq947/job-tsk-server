@@ -1,0 +1,124 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Omar",
+      "lastName": "Faruq",
+      "email": "omar@gmail.com",
+      "address": "Street, Suite, City",
+      "companyName": "iBOS"
+    },
+    {
+      "id": 2,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice@gmail.com",
+      "address": "123 Main St, Apt 101, New York",
+      "companyName": "Akij"
+    },
+    {
+      "id": 3,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "address": "456 Elm St, Suite 200, Boston",
+      "companyName": "bjit"
+    },
+    {
+      "id": 4,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Emily",
+      "lastName": "Smith",
+      "email": "emily.smith@example.com",
+      "address": "789 Oak St, Apt 303, San Francisco",
+      "companyName": "brain station 23"
+    },
+    {
+      "id": 5,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael.brown@example.com",
+      "address": "101 Pine St, Suite 100, Chicago",
+      "companyName": "welDev"
+    },
+    {
+      "id": 6,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Sophia",
+      "lastName": "Lee",
+      "email": "sophia.lee@example.com",
+      "address": "222 Cedar St, Apt 505, Los Angeles",
+      "companyName": "weDev"
+    },
+    {
+      "id": 7,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "David",
+      "lastName": "Clark",
+      "email": "david.clark@example.com",
+      "address": "333 Maple St, Suite 400, Houston",
+      "companyName": "tech-titans"
+    },
+    {
+      "id": 8,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "email": "emma.wilson@example.com",
+      "address": "444 Walnut St, Apt 606, Miami",
+      "companyName": " "
+    },
+    {
+      "id": 9,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "James",
+      "lastName": "Garcia",
+      "email": "james.garcia@example.com",
+      "address": "555 Birch St, Suite 707, Seattle",
+      "companyName": " "
+    },
+    {
+      "id": 10,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "address": "666 Willow St, Apt 808, Atlanta",
+      "companyName": " "
+    },
+    {
+      "id": 11,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "address": "666 Willow St, Apt 808, Atlanta",
+      "companyName": " "
+    },
+    {
+      "id": 12,
+      "Avatar": "",
+      "banner": "",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "address": "666 Willow St, Apt 808, Atlanta",
+      "companyName": " "
+    }
+  ]
+}
